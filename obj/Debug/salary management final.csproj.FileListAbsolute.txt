@@ -1,0 +1,74 @@
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\salary management final.exe.config
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\salary management final.exe
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\salary management final.pdb
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.Properties.Resources.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary management final.csproj.GenerateResource.cache
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary management final.exe
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary management final.pdb
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary management final.csprojAssemblyReference.cache
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.delete.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.edit.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.homepage.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.inner.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.login.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.new_employee.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.register.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.update.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary_management_final.table.resources
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\BouncyCastle.Crypto.dll
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\Google.Protobuf.dll
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\MySql.Data.dll
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\Renci.SshNet.dll
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\bin\Debug\MySql.Data.xml
+E:\karthik files\visual c dbms\New folder\salary management final\salary management final\obj\Debug\salary management final.csproj.CopyComplete
+C:\Users\keith\source\repos\salary management final\bin\Debug\salary management final.exe.config
+C:\Users\keith\source\repos\salary management final\bin\Debug\salary management final.exe
+C:\Users\keith\source\repos\salary management final\bin\Debug\salary management final.pdb
+C:\Users\keith\source\repos\salary management final\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\keith\source\repos\salary management final\bin\Debug\Google.Protobuf.dll
+C:\Users\keith\source\repos\salary management final\bin\Debug\MySql.Data.dll
+C:\Users\keith\source\repos\salary management final\bin\Debug\Renci.SshNet.dll
+C:\Users\keith\source\repos\salary management final\bin\Debug\MySql.Data.xml
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary management final.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.delete.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.edit.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.homepage.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.inner.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.login.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.new_employee.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.register.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.Properties.Resources.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.table.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.update.resources
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary management final.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary management final.csproj.CopyComplete
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary management final.exe
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary management final.pdb
+C:\Users\keith\source\repos\salary management final\obj\Debug\salary_management_final.payment.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\salary management final.exe.config
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\salary management final.exe
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\salary management final.pdb
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\BouncyCastle.Crypto.dll
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\Google.Protobuf.dll
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\MySql.Data.dll
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\Renci.SshNet.dll
+E:\karthik files\visual c dbms\salary management final\salary management final\bin\Debug\MySql.Data.xml
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary management final.csprojAssemblyReference.cache
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.delete.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.edit.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.homepage.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.inner.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.login.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.new_employee.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.register.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.Properties.Resources.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.table.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.update.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary management final.csproj.GenerateResource.cache
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary management final.csproj.CopyComplete
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary management final.exe
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary management final.pdb
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.view.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.generate.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.salary1.resources
+E:\karthik files\visual c dbms\salary management final\salary management final\obj\Debug\salary_management_final.payment.resources
